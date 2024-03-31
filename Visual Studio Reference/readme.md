@@ -1,4 +1,16 @@
-## Publish Profile
+# Visual Studio 2022
 
-### Block deployment on potential data loss
-<img src="../Reference Materials/img/VS_BlockDeployment.png" width="400" height="214">
+## Current Versions (as of 3/31/2024)
+
+17.9.5 
+17.10 Preview 2
+
+## SQL Database Project
+
+### Features
+
+#### Schema Comparison to Update Project
+
+#### Publish Settings
+
+#### Committing changes to Git Repository
